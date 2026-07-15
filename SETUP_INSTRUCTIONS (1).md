@@ -133,7 +133,7 @@ Open `http://localhost:5173` in your browser.
    - **User Accounts** — search, view details, delete users
 
 ### As a User
-1. Log out, then log in with `maria.santos@email.com` / `User@1234`
+1. Log out, then log in with `ana.reyes@email.com` / `User@1234`
 2. View your dashboard with your personal QR code (downloadable)
 3. Check **My Attendance** for your history
 
